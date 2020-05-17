@@ -2,4 +2,3 @@
 
 * Dr. Doom
 * Depshoot
-* Capitán America
